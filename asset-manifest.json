@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cloud-react-app/static/css/main.6df46195.chunk.css",
+    "main.js": "/cloud-react-app/static/js/main.d275c748.chunk.js",
+    "main.js.map": "/cloud-react-app/static/js/main.d275c748.chunk.js.map",
+    "runtime-main.js": "/cloud-react-app/static/js/runtime-main.20fa8caf.js",
+    "runtime-main.js.map": "/cloud-react-app/static/js/runtime-main.20fa8caf.js.map",
+    "static/css/2.98f0b48d.chunk.css": "/cloud-react-app/static/css/2.98f0b48d.chunk.css",
+    "static/js/2.3bceda62.chunk.js": "/cloud-react-app/static/js/2.3bceda62.chunk.js",
+    "static/js/2.3bceda62.chunk.js.map": "/cloud-react-app/static/js/2.3bceda62.chunk.js.map",
+    "index.html": "/cloud-react-app/index.html",
+    "static/css/2.98f0b48d.chunk.css.map": "/cloud-react-app/static/css/2.98f0b48d.chunk.css.map",
+    "static/css/main.6df46195.chunk.css.map": "/cloud-react-app/static/css/main.6df46195.chunk.css.map",
+    "static/js/2.3bceda62.chunk.js.LICENSE.txt": "/cloud-react-app/static/js/2.3bceda62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20fa8caf.js",
+    "static/css/2.98f0b48d.chunk.css",
+    "static/js/2.3bceda62.chunk.js",
+    "static/css/main.6df46195.chunk.css",
+    "static/js/main.d275c748.chunk.js"
+  ]
+}
